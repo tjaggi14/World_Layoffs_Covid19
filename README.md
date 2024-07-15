@@ -1,0 +1,2 @@
+In this project I have taken raw data of job layoffs happening in the world after Covid 19 from 2020 to 2023. I have transformed the data in SQL Server to make it more usuable for analysis.
+In this project I have also performed an exploratory data analysis, where I have analysed through the data in SQL Server to find trends and patterns and to make observations regarding different companies, industries and countries and how much did Covid 19 affect the job layoffs percentage.
